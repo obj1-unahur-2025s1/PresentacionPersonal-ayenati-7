@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Natalia Casafu
+- Vivo en Marcos Paz
 
 
 ### Otra Información
